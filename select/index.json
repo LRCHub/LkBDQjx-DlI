@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夢・花火",
+  "base_artist": "GARNET CROW",
+  "createdAt": "2026-03-24T05:01:42.708388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢・花火",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/01_夢・花火_GARNET_CROW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢・花火 (instrumental)",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/02_夢・花火_(instrumental)_GARNET_CROW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢・花火",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/pl_01_夢・花火_GARNET_CROW.txt"
+    }
+  ]
+}
